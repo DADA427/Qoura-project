@@ -1,0 +1,43 @@
+h1 {
+    color: maroon;
+}
+
+.post{
+    background-color:blanchedalmond ;
+}
+
+.username{
+    font-style: italic;
+}
+
+a{
+    display: inline;
+    background-color: maroon;
+    color: #ffffff;
+    padding: 2px 4px;
+    border-radius: 5px;
+  
+  /* Removes the default underline */
+    text-decoration: none; 
+  
+  /* Improves typography */
+    font-weight: bold;
+    text-align: center;
+}
+
+button{
+    display: inline;
+    background-color: maroon;
+    color: #ffffff;
+    padding: 2px 4px;
+    border-radius: 5px;
+    border: 0cap;
+  
+    /* Removes the default underline */
+    text-decoration: none; 
+  
+    /* Improves typography */
+    font-weight: bold;
+    text-align: center;
+    
+}

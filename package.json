@@ -1,0 +1,22 @@
+{
+  "name": "qourapost-restbackend",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "C:/Users/visha/Desktop/QouraPost-RestBackend/.git/"
+  },
+  "license": "ISC",
+  "author": "VishalDADA",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "method-override": "^3.0.0",
+    "uuid": "^14.0.1"
+  }
+}
